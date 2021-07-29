@@ -5,7 +5,7 @@ void ingresar(int a[],int n);
 void ordenar(int a[],int n);
 void imprimir(int a[],int n);
 
-
+// ESTA ES LA CLASE PRINCIPAL MAIN
 int main()
 {
     int arreglo1[TAM];
